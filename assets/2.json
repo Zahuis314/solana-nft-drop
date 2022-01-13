@@ -1,0 +1,19 @@
+{
+  "name": "Asta",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5rM8cCR8XijX54G4d5QxthJEe9TpGQMPkbdMaicFm3oG",
+        "share": 100
+      }
+    ]
+  }
+}
